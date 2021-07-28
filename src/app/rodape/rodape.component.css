@@ -1,0 +1,19 @@
+#rodape{
+  background-color: green;
+}
+
+#h2{
+  color: white;
+}
+
+.h4{
+  margin-top: 10px;
+}
+
+.links{
+color:indigo;
+
+}
+.links:hover{
+  color: white;
+}

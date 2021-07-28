@@ -1,0 +1,28 @@
+.img{
+  height: 200px;
+  width: 400px;
+  align-self: center;
+}
+
+.textsize{
+  size: 16px;
+}
+
+.conteudos {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;/*alinhamento (esquerda,direito,centro)*/
+  align-items: center; /*alinhamento dos itens (esquerda,direito,centro)*/
+}
+
+.colaborador{
+  padding: 10px;
+}
+
+.img-colaboradores{
+  size: 300px;
+}
+
+.negrito{
+  text-decoration: dotted;
+}
